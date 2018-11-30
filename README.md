@@ -1,1 +1,1 @@
-# PopUp-window-using-HTML-CSS-and-JS
+# Modal-using-HTML-CSS-and-JS
